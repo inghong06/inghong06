@@ -29,10 +29,6 @@ Here are some ideas to get you started:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=inghong06&show_icons=true)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TomasCostaK.TomasCostaK)
-
-⭐️ From [TomasCostaK](https://github.com/TomasCostaK/TomasCostaK) 
-
 ### 📫🤝🏻 Connect with Me
 
  - Connect with me on [LinkedIn](www.linkedin.com/in/ing-hong-kong) 👨🏻‍💻
