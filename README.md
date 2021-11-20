@@ -16,18 +16,22 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning ReactJS
 - 🌱 &nbsp; Interested in web development, finance and investment.
-- 🔭 I’m currently working on ** a webpage that displays financial data of Stocks and a handful of smaller projects**
+- 🔭 I’m currently working on a webpage that displays financial data of Stocks and a handful of smaller projects
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript | Python 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS
+- 🌐 &nbsp; HTML | CSS | Tailwind | ReactJS
 
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=inghong06&show_icons=true)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TomasCostaK.TomasCostaK)
+
+⭐️ From [TomasCostaK](https://github.com/TomasCostaK/TomasCostaK) 
 
 ### 📫🤝🏻 Connect with Me
 
