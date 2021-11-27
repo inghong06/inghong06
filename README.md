@@ -31,5 +31,6 @@ Here are some ideas to get you started:
 
 ### 📫🤝🏻 Connect with Me
 
- - Connect with me on [LinkedIn](www.linkedin.com/in/ing-hong-kong) 👨🏻‍💻
+ 
  - Shoot Me an [Email](mailto:inghong06@gmail.com) 💌
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/ing-hong-kong) 👨🏻‍💻
