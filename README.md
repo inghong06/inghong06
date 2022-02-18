@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS and Solidity
 - 🌱 &nbsp; Interested in web development, finance and investment.
 - 🔭 I’m currently working on a webpage that displays financial data of Stocks and a handful of smaller projects
 
